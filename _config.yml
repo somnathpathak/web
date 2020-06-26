@@ -30,9 +30,12 @@ twitter_username: somnath_pathak_
 github_username: somnath111993
 
 # Build settings
-theme: minima
+# If overriding the jekyll theme defaults comment the line below, here is some quick reference for you:
+# https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
