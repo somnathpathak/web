@@ -4,11 +4,12 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col custom-footer-col-1">
-        <p><small>&copy; somnathpathak 2019</small></p>
-      </div>
-      <div class="footer-col custom-footer-col-2">
+      <div class="footer-col footer-col-left">
         <p><small><a href="/web/about/" title="About this site">About this site</a></small></p>
+      </div>
+      <div class="footer-col footer-col-right">
+        {% assign current_year = "now" | date: "%Y" %}
+        <p><small>&copy; {{ current_year }} Somnath Pathak</small></p>
       </div>
     </div>
   </div>

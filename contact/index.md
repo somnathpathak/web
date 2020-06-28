@@ -1,20 +1,20 @@
 ---
 layout: page
 title: Contact
-navigation_weight: 2
+page_title:
+exclude: false
+navigation_weight: 3
 permalink: /contact/
 ---
 
-## Find all contact link with icons here
+You can get in touch with or find me at:
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+{::options parse_block_html="true" /}
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<div>
+{%- include social.html -%}
+</div>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+{::options parse_block_html="false" /}
 
-[jekyll-organization]: https://github.com/jekyll
+Or by sending an e-mail to [somnath.jan1@gmail.com](mailto:somnath.jan1@gmail.com)
