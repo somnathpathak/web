@@ -6,7 +6,7 @@ exclude: true
 permalink: /about/
 ---
 
-somnathpathak.com is:
+The website is:
 
 Licensed under a [MIT License](https://opensource.org/licenses/MIT).  
 Marked up with [W3C validated HTML5](http://validator.w3.org/check?uri=http%3A%2F%2Fjmcglone.com%2F "HTML5 Validator")  
