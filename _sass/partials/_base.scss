@@ -267,17 +267,36 @@ table {
 }
 
 /**
-* Uppercase Text
+ * Uppercase Text
  */
 %uppercase {
   text-transform: uppercase;
 }
 
 /**
-* Summary
+ * Summary
  */
 .home-page-summary {
   font-size: $large-font-size;
 }
 
+/**
+ * Header With Subheader
+ */
+.header-with-subheader {
+  margin-bottom: 0px;
+}
+
+/**
+ * Custom Table
+ */
+.custom-table {
+  border: none;
+  tr {
+    background-color: $background-color !important;
+  }
+  td {
+    border: none;
+  }
+}
 
