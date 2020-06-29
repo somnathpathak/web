@@ -89,6 +89,7 @@ E: somnath.jan1@gmail.com
 
 ### Education
 
-**BE, Computer Science and Engineering, Rajiv Gandhi Institute of Technology, Bangalore, India, 2015**
+{: .header-with-subheader}
+#### BE, Computer Science and Engineering, Rajiv Gandhi Institute of Technology, Bangalore, India, 2015  
 ##### *Affiliated to VTU, Recognised & Approved by AICTE, New Delhi*
 
