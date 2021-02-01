@@ -17,7 +17,7 @@ Bangalore India 560015
 P: +91 72593-49634  
 E: somnath.jan1@gmail.com  
 
-4+ years experienced Full Stack developer with hands on experience of designing, developing and maintaining web as well as mobile applications. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Adept at understanding the requirements of the clients and delivering projects accordingly. Demonstrates the capability of maintaining code by fixing bugs as well as conducting end to end testing. Highly skilled at collaborating with team members to ship engaging products within deadlines. Looking forward to applying the acquired gamut of skills in a challenging role.
+5+ years experienced Full Stack developer with hands on experience of designing, developing and maintaining web as well as mobile applications. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Adept at understanding the requirements of the clients and delivering projects accordingly. Demonstrates the capability of maintaining code by fixing bugs as well as conducting end to end testing. Highly skilled at collaborating with team members to ship engaging products within deadlines. Looking forward to applying the acquired gamut of skills in a challenging role.
 
 [//]: <> _______________________________________  
 
