@@ -24,6 +24,21 @@ E: somnath.jan1@gmail.com
 ### Professional Experience
 
 {: .header-with-subheader}
+#### Senior Engineer, Falabella India, February 2020 - Present            
+##### *Falabella India delivers IT business solutions to the Falabella Group. Falabella is one of Latin America's leading integrated retailers, with operations in Chile, Peru, Colombia, Argentina, Uruguay, Brazil and Mexico.*
++ Tech Stack: Google Cloud Platform, Node.js, Fastify, Kubernetes, Helm, Terraform, PostgreSQL, MongoDB, Gitlab CI/CD, React, Jest, Enzyme, Webpack, NPM (private & public) and GIT version control
++ Collaborated with a team of developers to design and develop a queue management application for reserving store-visit time slots enabling people to book and visit Falabella stores in the covid times. [Control Trafico App in news](https://www.mercadonegro.pe/retail/mallplaza-crea-reserva-tu-visita-una-manera-ordenada-de-programar-asistencias/)
++ Successfully migrated micro-service from Azure to GCP with below tasks involved:
+    - Creating Kubernetes Clusters on GCP with Terraform scripts.
+    - Installing required Helm packages.
+    - Securing GKE clusters with TLS using CloudFlare certificate.
+    - Implementing Gitlab CI/CD pipeline for continuous deploymemnt of micro-service.
++ Developed cloud functions and worked extensively on [Google Firebase](https://firebase.google.com/) handling back-end for Falabella and Sodimac Mobile applications.
++ Designed and developed solution for enabling cross platform product sale under Falabella e-commerce.
++ Implemented unit testing with Jest & Enzyme and maintained the code quality
++ Fixed existing bugs to ensure smooth delivery and functioning of the applications
+
+{: .header-with-subheader}
 #### Consultant, Xebia IT Architects India Pvt Ltd, September 2019 - January 2020      
 ##### *Xebia is an international IT organization specialized in Continuous Delivery & DevOps, Agile Consulting, Enterprise Web Apps, Digital Assurance and Mobile apps.*
 + Tech Stack: React, Redux, Saga, redux-thunk, ag-Grid, Jest, Enzyme, Webpack, Node.js, NPM (private & public) and GIT version control
@@ -78,12 +93,12 @@ E: somnath.jan1@gmail.com
 
 {: .custom-table}
 | **Key Skills** | Bug Fixing & Troubleshooting, Client Requirements, Stable codebase, End to end Testing, Mobile Apps, Web Apps, Highly Scalable Applications, Stakeholder Management, Process Optimization, Solutions Architecture & Delivery |
-| **Technical Skills** | React, Redux, AngularJS, ReactNative, CSS3, HTML5, Bootstrap, ES6, Jquery, Webpack, REST API, JSON, Node, NPM, Hapi.js, Express.js, MySQL, CassandraDB, Apache SOLR, MongoDB, Neo4j GraphDB, Redis, Kubernetes, Helm |
+| **Technical Skills** | React, Redux, AngularJS, ReactNative, CSS3, HTML5, Bootstrap, ES6, Jquery, Webpack, REST API, JSON, Node, NPM, Hapi.js, Express.js, MySQL, PostgreSQL, CassandraDB, Apache SOLR, MongoDB, Neo4j GraphDB, Redis, Kubernetes, Helm |
 | **Version Control** | Git, GitHub, GitLab, Bitbucket |
 | **Cloud Platforms** | GCP, AWS |
 | **Applications** | Visual Studio Code, Sublime, Atom, WebStorm, Adobe Photoshop, Microsoft Office, Google Drive |
 | **Publishing Platforms** | Jekyll, GitHub Pages |
-| **OS/Environments** | Mac, Linux, Unix, Ubuntu, Windows |
+| **OS/Environments** | Mac, Linux, Windows |
 
 [//]: <> _______________________________________ 
 
