@@ -11,8 +11,6 @@ permalink: /cv/
 
 ## Somnath Pathak
 
-#37 9<sup>th</sup> Cross  
-Kalanagar KG Halli  
 Bangalore India 560015  
 P: +91 72593-49634  
 E: somnath.jan1@gmail.com  
@@ -27,15 +25,15 @@ E: somnath.jan1@gmail.com
 #### Senior Engineer, Falabella India, February 2020 - Present            
 ##### *Falabella India delivers IT business solutions to the Falabella Group. Falabella is one of Latin America's leading integrated retailers, with operations in Chile, Peru, Colombia, Argentina, Uruguay, Brazil and Mexico.*
 + Tech Stack: Google Cloud Platform, Node.js, Fastify, Kubernetes, Helm, Terraform, PostgreSQL, MongoDB, Gitlab CI/CD, React, Jest, Enzyme, Webpack, NPM (private & public) and GIT version control
-+ Collaborated with a team of developers to design and develop a queue management application for reserving store-visit time slots enabling people to book and visit Falabella stores in the covid times. [Control Trafico App in news](https://www.mercadonegro.pe/retail/mallplaza-crea-reserva-tu-visita-una-manera-ordenada-de-programar-asistencias/)
-+ Successfully migrated micro-service from Azure to GCP with below tasks involved:
-    - Creating Kubernetes Clusters on GCP with Terraform scripts.
-    - Installing required Helm packages.
-    - Securing GKE clusters with TLS using CloudFlare certificate.
-    - Implementing Gitlab CI/CD pipeline for continuous deploymemnt of micro-service.
-+ Developed cloud functions and worked extensively on [Google Firebase](https://firebase.google.com/) handling back-end for Falabella and Sodimac Mobile applications.
-+ Designed and developed solution for enabling cross platform product sale under Falabella e-commerce.
-+ Implemented unit testing with Jest & Enzyme and maintained the code quality
++ Collaborated with a team of developers to design and develop a queue management application
++ Successfully deployed micro-services to GCP with below mentioned tasks involved:
+    - Creating Kubernetes Clusters on GCP with Terraform scripts
+    - Installing required Helm packages
+    - Securing GKE clusters with TLS using CloudFlare certificate
+    - Implementing Gitlab CI/CD pipeline for continuous deploymemnt of micro-service
++ Developed cloud functions and worked extensively on [Google Firebase](https://firebase.google.com/)
++ Designed and developed solution for enabling cross platform communication extensively using [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/docs)
++ Implemented unit testing with Jest & Enzyme and maintained the code quality by participating in Merge Request reviewals
 + Fixed existing bugs to ensure smooth delivery and functioning of the applications
 
 {: .header-with-subheader}
