@@ -11,15 +11,24 @@ permalink: /cv/
 
 ## Somnath Pathak
 
+A-105 Divya JSR Limelite  
+KG Halli Jalahalli West  
 Bangalore India 560015  
 P: +91 72593-49634  
 E: somnath.jan1@gmail.com  
 
-5+ years experienced Full Stack developer with hands on experience of designing, developing and maintaining web as well as mobile applications. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Adept at understanding the requirements of the clients and delivering projects accordingly. Demonstrates the capability of maintaining code by fixing bugs as well as conducting end to end testing. Highly skilled at collaborating with team members to ship engaging products within deadlines. Looking forward to applying the acquired gamut of skills in a challenging role.
+6+ years experienced Full Stack developer with hands on experience of designing, developing and maintaining web as well as mobile applications. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Adept at understanding the requirements of the clients and delivering projects accordingly. Demonstrates the capability of maintaining code by fixing bugs as well as conducting end to end testing. Highly skilled at collaborating with team members to ship engaging products within deadlines. Looking forward to applying the acquired gamut of skills in a challenging role.
 
 [//]: <> _______________________________________  
 
 ### Professional Experience
+
+{: .header-with-subheader}
+#### Senior Staff Software Engineer, IBM India Software Labs, July 2021 - Present            
+##### *IBM Software Labs services helps you implement, deploy, and optimize software for your mission-critical workloads for Blockchain, mobile, analytics, and hybrid cloud on the industry's most secure server.*
++ Tech Stack: IBM Cloud, Terraform, Ansible, Red Hat OpenShift, Kubernetes, Helm, Node.js, Linux and GIT version control
++ Automated OS Health Checks defined by CIS with Ansible
++ Took lead in learning and using internal standards to implement solutions compliant with FedRamp requirements.
 
 {: .header-with-subheader}
 #### Senior Engineer, Falabella India, February 2020 - Present            
@@ -91,9 +100,9 @@ E: somnath.jan1@gmail.com
 
 {: .custom-table}
 | **Key Skills** | Bug Fixing & Troubleshooting, Client Requirements, Stable codebase, End to end Testing, Mobile Apps, Web Apps, Highly Scalable Applications, Stakeholder Management, Process Optimization, Solutions Architecture & Delivery |
-| **Technical Skills** | React, Redux, AngularJS, ReactNative, CSS3, HTML5, Bootstrap, ES6, Jquery, Webpack, REST API, JSON, Node, NPM, Hapi.js, Express.js, MySQL, PostgreSQL, CassandraDB, Apache SOLR, MongoDB, Neo4j GraphDB, Redis, Kubernetes, Helm |
+| **Technical Skills** | React, Redux, AngularJS, ReactNative, CSS3, HTML5, Bootstrap, ES6, Jquery, Webpack, REST API, JSON, Node, NPM, Hapi.js, Express.js, MySQL, PostgreSQL, CassandraDB, Apache SOLR, MongoDB, Neo4j GraphDB, Redis, Red Hat OpenShift, Kubernetes, Helm, Ansible |
 | **Version Control** | Git, GitHub, GitLab, Bitbucket |
-| **Cloud Platforms** | GCP, AWS |
+| **Cloud Platforms** | IBM Cloud, GCP, AWS |
 | **Applications** | Visual Studio Code, Sublime, Atom, WebStorm, Adobe Photoshop, Microsoft Office, Google Drive |
 | **Publishing Platforms** | Jekyll, GitHub Pages |
 | **OS/Environments** | Mac, Linux, Windows |
