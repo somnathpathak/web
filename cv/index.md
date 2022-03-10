@@ -29,7 +29,7 @@ E: somnath.jan1@gmail.com
 + Took lead in learning and using internal standards to implement solutions compliant with FedRamp requirements.
 
 {: .header-with-subheader}
-#### Senior Engineer, Falabella India, February 2020 - Present            
+#### Senior Engineer, Falabella India, February 2020 - July 2021            
 ##### *Falabella India delivers IT business solutions to the Falabella Group. Falabella is one of Latin America's leading integrated retailers, with operations in Chile, Peru, Colombia, Argentina, Uruguay, Brazil and Mexico.*
 + Tech Stack: Google Cloud Platform, Node.js, Fastify, Kubernetes, Helm, Terraform, PostgreSQL, MongoDB, Gitlab CI/CD, React, Jest, Enzyme, Webpack, NPM (private & public) and GIT version control
 + Collaborated with a team of developers to design and develop a queue management application
