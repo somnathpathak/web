@@ -11,8 +11,6 @@ permalink: /cv/
 
 ## Somnath Pathak
 
-A-105 Divya JSR Limelite  
-KG Halli Jalahalli West  
 Bangalore India 560015  
 P: +91 72593-49634  
 E: somnath.jan1@gmail.com  
