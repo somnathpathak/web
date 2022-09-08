@@ -24,7 +24,7 @@ E: somnath.jan1@gmail.com
 {: .header-with-subheader}
 #### Senior Staff Software Engineer, IBM India Software Labs, July 2021 - Present            
 ##### *IBM Software Labs services helps you implement, deploy, and optimize software for your mission-critical workloads for Blockchain, mobile, analytics, and hybrid cloud on the industry's most secure server.*
-+ Tech Stack: IBM Cloud, Terraform, Red Hat OpenShift, Kubernetes, Ansible, Node.js, Linux and GIT version control
++ Tech Stack: IBM Cloud, Terraform, Red Hat OpenShift, Kubernetes, Ansible, Node.js, Shell Scripting and GIT version control
 + Currently working with the team to develop and automate the infrastructure deployment comprising NIST compliant OpenShift cluster upon VPC to be leveraged by different IBM Cloud Services teams to deploy their respective services    
 + Automated OS Health Checks defined by CIS with Ansible
 + Took lead in learning and using internal standards to implement solutions compliant with FedRamp requirements.
