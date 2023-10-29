@@ -15,7 +15,7 @@ Bangalore India 560015
 P: +91 72593-49634  
 E: somnath.jan1@gmail.com  
 
-8+ years experienced Cloud Engineer/Full Stack Cloud developer with hands on experience of designing, developing and maintaining web as well as mobile applications. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Adept at understanding the requirements of the clients and delivering projects accordingly. Demonstrates the capability of maintaining code by fixing bugs as well as conducting end to end testing. Highly skilled at collaborating with team members to ship engaging products within deadlines. Looking forward to applying the acquired gamut of skills in a challenging role.
+Cloud Engineer and Full Stack Developer with over 8 years of expertise in architecting, developing, and upholding robust cloud solutions such as PaaS, alongside web and mobile applications. Proficient in devising scalable cloud solutions across diverse tech stacks, and in aligning development with client specifications. Adept at code maintenance, thorough testing, and bug resolution. Passionate about mentoring junior developers, imparting best practices, and fostering team collaboration to deliver impactful products punctually. Eager to contribute a vast skill set to a dynamic and challenging role.
 
 [//]: <> _______________________________________  
 
